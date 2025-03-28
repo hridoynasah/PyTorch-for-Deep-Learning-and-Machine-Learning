@@ -44,9 +44,3 @@ This chapter focuses on the PyTorch workflow, including data preparation, model 
    ```
 2. Navigate to the desired chapter and open the notebooks in Jupyter Notebook or Google Colab.
 3. Follow along with the exercises and practice files to enhance your understanding.
-
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
