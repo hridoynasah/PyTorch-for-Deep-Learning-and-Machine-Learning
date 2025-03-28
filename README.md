@@ -40,7 +40,7 @@ This chapter focuses on the PyTorch workflow, including data preparation, model 
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PyTorch-for-Deep-Learning-and-Machine-Learning.git
+   git clone https://github.com/hridoynasah/PyTorch-for-Deep-Learning-and-Machine-Learning.git
    ```
 2. Navigate to the desired chapter and open the notebooks in Jupyter Notebook or Google Colab.
 3. Follow along with the exercises and practice files to enhance your understanding.
