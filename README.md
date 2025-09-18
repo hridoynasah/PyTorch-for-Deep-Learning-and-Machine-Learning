@@ -44,3 +44,4 @@ This chapter focuses on the PyTorch workflow, including data preparation, model 
    ```
 2. Navigate to the desired chapter and open the notebooks in Jupyter Notebook or Google Colab.
 3. Follow along with the exercises and practice files to enhance your understanding.
+–
